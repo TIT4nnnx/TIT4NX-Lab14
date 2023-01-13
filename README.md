@@ -1,2 +1,2 @@
-# NAME: Suphakorn Komod
-# STUDENT ID: 650610811
+# NAME:Suphakorn Komod
+# STUDENT ID:650610811
